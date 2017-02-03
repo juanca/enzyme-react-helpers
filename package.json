@@ -1,0 +1,21 @@
+{
+  "name": "enzyme-react-helpers",
+  "version": "0.0.0",
+  "description": "Helpers to make speccing fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "contributors": [
+    {
+      "name": "Juan Carlos Medina",
+      "email": "juanca.med@gmail.com"
+    },
+    {
+      "name": "Naomi Jacobs",
+      "email": "naomiajacobs@gmail.com"
+    }
+  ],
+  "license": "MIT"
+}
